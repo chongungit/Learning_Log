@@ -14,5 +14,5 @@
 #templates/
 
 ll_env/
-__psycache__/
+__pycache__/
 *.sqlite3
